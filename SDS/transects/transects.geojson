@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "transectas_lupe_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32721" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "PR" }, "geometry": { "type": "LineString", "coordinates": [ [ 520407.410686458228156, 5983108.509556105360389 ], [ 520434.505118055792991, 5983996.150585141964257 ] ] } },
+{ "type": "Feature", "properties": { "name": "MDT" }, "geometry": { "type": "LineString", "coordinates": [ [ 527986.326845003757626, 5952812.505815190263093 ], [ 528117.24768133321777, 5952820.058898713439703 ] ] } },
+{ "type": "Feature", "properties": { "name": "MDA" }, "geometry": { "type": "LineString", "coordinates": [ [ 528995.201305183116347, 5937552.906485786661506 ], [ 529357.443588549387641, 5937590.932134404778481 ] ] } },
+{ "type": "Feature", "properties": { "name": "NA" }, "geometry": { "type": "LineString", "coordinates": [ [ 528912.831070733489469, 5929884.902099455706775 ], [ 529291.951469465740956, 5929906.613710954785347 ] ] } },
+{ "type": "Feature", "properties": { "name": "MDP" }, "geometry": { "type": "LineString", "coordinates": [ [ 498310.514775571296923, 5868482.478253743611276 ], [ 498483.39889182173647, 5868371.739254603162408 ] ] } },
+{ "type": "Feature", "properties": { "name": "PI" }, "geometry": { "type": "LineString", "coordinates": [ [ 514675.854380043863785, 5894872.449875140562654 ], [ 514998.543165304756258, 5894601.425173609517515 ] ] } }
+]
+}
