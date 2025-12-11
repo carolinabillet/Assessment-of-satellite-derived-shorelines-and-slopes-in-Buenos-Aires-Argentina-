@@ -4,6 +4,8 @@ The objective of this set of notebooks is to obtain time series of satellite der
 
 This repo is an application and assessment of [CoastSat](https://github.com/kvos/CoastSat) and [CoastSat.slope](https://github.com/kvos/CoastSat.slope) tools, created by [K.Vos](https://github.com/kvos).
 
+
+
 ![figura 1 2](https://github.com/user-attachments/assets/34f638ac-c17d-442d-b3d1-fe3cf0407faf)
 
 ## Requirements
@@ -49,3 +51,4 @@ The following notebooks are available in this repo:
 5. Slope sensitivity.ipynb: Sensitivity to beach slope variation in the tidal correction applied to BWsat time series is analyzed using MSAS data. Tidal correction is performed with different slope values varying from 0.01 to 0.2 in increments of 0.005.
 
    
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17902152.svg)](https://doi.org/10.5281/zenodo.17902152)
